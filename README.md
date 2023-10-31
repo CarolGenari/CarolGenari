@@ -4,7 +4,7 @@
 - 😌 I am a beginner developer, with a lot of passion and dedication for programming. 
 - 👩‍💻 I am in a career transition.
 - 🌱 I’m currently learning Node.js and React. 
-- 📫 How to reach me: carolinegenari@gmail.com
+- 📫 How to reach me: e-mail: carolinegenari@gmail.com and LinkedIn: https://www.linkedin.com/in/caroline-genari-de-oliveira-631710a4/
 - ⚡ Fun fact: I am a Biologist and Post-Graduated in Safety and Hygiene at Work. <br> <br>
 
 ##
